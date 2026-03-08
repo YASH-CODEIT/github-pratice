@@ -3,7 +3,11 @@ java  v8.2
 
 html
 javaprogramming
+<<<<<<< HEAD
 ruby
+=======
+python
+>>>>>>> 423b64b83dca209a06f3f4bb6d1b42375e9171fc
 css
 
 lombook
