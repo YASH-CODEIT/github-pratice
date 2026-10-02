@@ -1,0 +1,8 @@
+.
+This file contain some data. This data is condeffential.
+Adding some more data file.
+There are something that you need to add.
+Add some more changes to see the effect of git stash.This is some changes i made.
+There are some more changes.
+Also make chnage in data.txt file.
+This is the staged file.
